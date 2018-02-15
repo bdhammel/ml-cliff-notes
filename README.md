@@ -2,13 +2,14 @@
 
 These Jupyter notebooks are my notes as I work through this stuff. I make no garentee that these are correct. If you find an error, or something that's unclear, please let me know. 
 
-Table of Contents
+## Table of Contents
 
  - [Linear Regression](linear_regression.ipynb)
  
 
-These notes attempth to follow the Ashwin-Anitha framework:
+## Outline
 
+These notes attempth to follow the Ashwin-Anitha framework:
 
 **For each ML model:**
 
