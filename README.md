@@ -4,8 +4,7 @@ These Jupyter notebooks are my notes as I work through this stuff. I make no gar
 
 Table of Contents
 
- - [./linear_regression.ipynb](Linear Regression)
- 
+ - [linear_regression.ipynb](Linear Regression)
  
 
 These notes attempth to follow the Ashwin-Anitha framework:
