@@ -5,6 +5,8 @@ These Jupyter notebooks are my notes as I work through this stuff. I make no gar
 ## Table of Contents
 
  - [Linear Regression](linear_regression.ipynb)
+ - [Logistic Regression](logistic_regression.ipynb)
+ - ~~[Naive Bayes](naive_bayes.ipynb)~~
  
 
 ## Outline
@@ -42,3 +44,11 @@ More on training the model (not model-specific, this should be common for most o
  - How do you regularize the model? Tradeoffs?
  - How can you validate the model?
  - Does the model emphasize Type 1 or Type 2 errors?
+
+
+## Great Resources
+
+ - [Victor Lavrenko on youtube](https://www.youtube.com/channel/UCs7alOMRnxhzfKAJ4JjZ7Wg)
+ - [lazy programmer classes on Udemy](https://www.udemy.com/user/lazy-programmer/)
+ - [Neural networks and deep learning](http://neuralnetworksanddeeplearning.com)
+ - [Neural networks, manifolds, and topology](http://colah.github.io/posts/2014-03-NN-Manifolds-Topology/)
