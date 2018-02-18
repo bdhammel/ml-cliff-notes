@@ -1,28 +1,33 @@
 # Machine Learning Cliff Notes
 
-These Jupyter notebooks are my notes as I work through this stuff. I make no garentee that these are correct. If you find an error, or something that's unclear, please let me know. 
+These Jupyter notebooks are my notes as I work through this stuff. I make no guarantee that these are correct. If you find an error or something that's unclear, please let me know. 
 
 ## Table of Contents
 
  - [Linear Regression](linear_regression.ipynb)
  - [Logistic Regression](logistic_regression.ipynb)
- - ~~[Naive Bayes](naive_bayes.ipynb)~~
- 
+ - [Naive Bayes](naive_bayes.ipynb)
+ - ~~[Desision Trees](desision_trees.ipynb)~~
+ - ~~[K-means](kmeans.ipynb)~~
+ - ~~[Gaussian Mixture Models](gmm.ipynb)~~
+ - ~~[Principle Component Analysis](pca.ipynb)~~
+ - ~~[Neural Networks](neural_networks.ipynb)~~
+
 
 ## Outline
 
-These notes attempth to follow the Ashwin-Anitha framework:
+These notes attempt to follow the Ashwin-Anitha framework:
 
 **For each ML model:**
 
 Top-level
- - What is the high level version, explain in layman's terms
+ - What is the high-level version, explain in layman's terms
  - What scenario should you use it in (classification vs regression, noisy data vs clean data)?
  - How does this deal with outliers? Skewed data?
  - What assumptions does the model make about the data? (Linear, etc)?
  - What types of features does the model use (continuous vs categorical)?
- - When does the model break / fail (adv & dis-advantages)?
- - use cases / alternatives when it breaks
+ - When does the model break/fail (adv & dis-advantages)?
+ - use cases/alternatives when it breaks
 
 A bit more detail:
  - How do you normalize the data for the model, if you need to?
@@ -34,8 +39,8 @@ A bit more detail:
  
 In-depth
  - probabilistic interpretation
- - Derive the math (only for a couple models)*
- - Code up implementation (only for a couple models)*
+ - Derive the math (only for a couple models)
+ - Code up implementation (only for a couple models)
 
 More on training the model (not model-specific, this should be common for most of the models):
  - How to deal with imbalanced data?
@@ -47,6 +52,8 @@ More on training the model (not model-specific, this should be common for most o
 
 
 ## Great Resources
+
+I borrow heavily from the resources below; this includes code snippets, figures, derivations, and explanations.
 
  - [Victor Lavrenko on youtube](https://www.youtube.com/channel/UCs7alOMRnxhzfKAJ4JjZ7Wg)
  - [lazy programmer classes on Udemy](https://www.udemy.com/user/lazy-programmer/)
