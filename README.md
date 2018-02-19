@@ -8,7 +8,7 @@ These Jupyter notebooks are my notes as I work through this stuff. I make no gua
  - [Logistic Regression](logistic_regression.ipynb)
  - [Naive Bayes](naive_bayes.ipynb)
  - ~~[Desision Trees](desision_trees.ipynb)~~
- - ~~[K-means](kmeans.ipynb)~~
+ - [K-means](kmeans.ipynb)
  - ~~[Gaussian Mixture Models](gmm.ipynb)~~
  - ~~[Principle Component Analysis](pca.ipynb)~~
  - ~~[Neural Networks](neural_networks.ipynb)~~
@@ -59,3 +59,4 @@ I borrow heavily from the resources below; this includes code snippets, figures,
  - [lazy programmer classes on Udemy](https://www.udemy.com/user/lazy-programmer/)
  - [Neural networks and deep learning](http://neuralnetworksanddeeplearning.com)
  - [Neural networks, manifolds, and topology](http://colah.github.io/posts/2014-03-NN-Manifolds-Topology/)
+ - [Scikit-Learn (SK-learn)](http://scikit-learn.org/stable/)
