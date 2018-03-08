@@ -60,3 +60,4 @@ I borrow heavily from the resources below; this includes code snippets, figures,
  - [Neural networks and deep learning](http://neuralnetworksanddeeplearning.com)
  - [Neural networks, manifolds, and topology](http://colah.github.io/posts/2014-03-NN-Manifolds-Topology/)
  - [Scikit-Learn (SK-learn)](http://scikit-learn.org/stable/)
+ - [41 Essential Machine Learning Interview Questions](https://www.springboard.com/blog/machine-learning-interview-questions/)
