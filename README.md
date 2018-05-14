@@ -16,8 +16,6 @@ These Jupyter notebooks are my notes as I work through this stuff. I make no gua
 
 ## Outline
 
-These notes attempt to follow the Ashwin-Anitha framework:
-
 **For each ML model:**
 
 Top-level
