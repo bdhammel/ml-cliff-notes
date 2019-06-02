@@ -1,6 +1,8 @@
 # Machine Learning Cliff Notes
 
-These Jupyter notebooks are my notes as I work through this stuff. I make no guarantee that these are correct. If you find an error or something that's unclear, please let me know. 
+**These Jupyter notebooks are my notes as I work through this stuff. I make no guarantee that these are correct.**
+Please visit [bdhammel.com](http://bdhammel.com) for more up-to-date write-ups.
+If you find an error or something that's unclear, please let me know. 
 
 ## Table of Contents
 
